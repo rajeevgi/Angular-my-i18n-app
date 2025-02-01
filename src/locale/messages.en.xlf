@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="site-header" datatype="html">
+        <source>Welcome to our website!</source>
+        <target>Welcome to our website!</target>
+      </trans-unit>
+      <trans-unit id="description" datatype="html">
+        <source>Internationalization, sometimes referenced as i18n, is the process of designing and preparing your project for use in different locales around the world. Localization is the process of building versions of your project for different locales. The localization process includes the following actions.</source>
+        <target>Internationalization, sometimes referenced as i18n, is the process of designing and preparing your project for use in different locales around the world. Localization is the process of building versions of your project for different locales. The localization process includes the following actions.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
