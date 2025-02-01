@@ -15,7 +15,7 @@ ng add @angular/localize</p>
 
 <p><b>Step 2: Extract Translation Files:</b>Angular provides a tool to extract marked text into a translation file. Run:</p>
 <p>Bash: ng extract-i18n --output-path src/locale</p>
-<span><i>This command generates a messages.xlf file in the specified directory, containing the text to be translated.</i<></span>
+<span><i>This command generates a messages.xlf file in the specified directory, containing the text to be translated.</i></span>
 
 <p><b>Step 4: Translate the Text:</b>Duplicate the messages.xlf file for each target language (e.g., messages.fr.xlf for French) and provide the translations within these files</p>
 
